@@ -11,4 +11,4 @@
 ***
 ![image](https://github.com/N10th/openPortIp/blob/master/scan_example/result1.png)
 ***
-![image](https://github.com/N10th/openPortIp/blob/master/scan_example/result1.png)
+![image](https://github.com/N10th/openPortIp/blob/master/scan_example/result2.png)
